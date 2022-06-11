@@ -1,6 +1,6 @@
-- 👋 Hey there, I’m @Fatuse
+- 👋 Hey there, I’m @Fatungase Daniel
 - 👀 I’m interested in Data Analytics and its applications to solving real world problems
-- 📫 Should you come acroos anything of interest and want to reach out, heres my email Danielfatuse@gmail.com
+- 📫 Should you come across anything of interest and want to reach out, heres my email Danielfatuse@gmail.com
 
 <!---
 Fatuse/Fatuse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

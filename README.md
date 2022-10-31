@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m @Fatungase Daniel
-- 👀 I’m interested in Data Analytics and its applications to solving real world problems
+- 👀 A chemical engineer interested in Data Analytics and its applications to solving real world problems
 - 📫 Should you come across anything of interest and want to reach out, heres my email Danielfatuse@gmail.com
 
 <!---
